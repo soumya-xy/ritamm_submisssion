@@ -1,0 +1,24 @@
+{
+  "reconciliation": {
+    "opening_balance": 12450000.00,
+    "closing_balance": 23896579.25,
+    "total_debits": 38016350.00,
+    "total_credits": 49462929.25,
+    "transaction_count": 39,
+    "checks": {
+      "running_balance_each_row": true,
+      "opening_plus_movements_equals_closing": true,
+      "matches_statement_printed_totals": true
+    }
+  },
+  "categorization_checks": {
+    "every_row_categorized": true,
+    "accrual_settlements_equal_q3_liabilities": true,
+    "accrual_settlements_total": 185000.00,
+    "q3_open_liabilities_total": 185000.00,
+    "capital_calls_within_commitments": true,
+    "over_commitment": {},
+    "llm_rules_disagreements": [],
+    "rows_using_rules_fallback": 0
+  }
+}

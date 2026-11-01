@@ -1,0 +1,107 @@
+{
+  "closing_cash": 23896579.25,
+  "investments_usd": 146062460.00,
+  "liabilities": 195000.00,
+  "nav_q4": 169764039.25,
+  "management_fee": 1250000.00,
+  "bridge": {
+    "nav_q3": 160224800.00,
+    "capital_called": 20000000.00,
+    "distributions": 22500000.00,
+    "income": 459429.25,
+    "expenses": 1522850.00,
+    "realized_gain": 9000000.00,
+    "change_in_unrealized": 4102660.00,
+    "nav_q4": 169764039.25,
+    "difference": 0.00
+  },
+  "expense_breakdown": {
+    "management_fee": 1250000.00,
+    "other_expenses_net_of_refunds": 77000.00,
+    "bank_charges": 850.00,
+    "q4_accruals": 195000.00,
+    "total": 1522850.00
+  },
+  "income_breakdown": {
+    "dividends": 420000.00,
+    "interest": 39429.25
+  },
+  "unrealized": {
+    "q3_total": 23775800.00,
+    "q4_total": 27878460.00
+  },
+  "accrual_settlements_nav_neutral": 185000.00,
+  "holdings_q4": [
+    {
+      "company": "Aurora Logistics Pvt Ltd",
+      "cost_usd": 18000000.00,
+      "fair_value_usd": 25700000.00,
+      "unrealized_gain": 7700000.00,
+      "basis": "CVP mark (USD)"
+    },
+    {
+      "company": "Bluetarn Software Inc",
+      "cost_usd": 22500000.00,
+      "fair_value_usd": 42900000.00,
+      "unrealized_gain": 20400000.00,
+      "basis": "CVP mark (USD)"
+    },
+    {
+      "company": "Cedar Health Holdings",
+      "cost_usd": 15000000.00,
+      "fair_value_usd": 9600000.00,
+      "unrealized_gain": -5400000.00,
+      "basis": "CVP mark (USD)"
+    },
+    {
+      "company": "Delta Agritech Ltd",
+      "cost_usd": 9500000.00,
+      "fair_value_usd": 12150000.00,
+      "unrealized_gain": 2650000.00,
+      "basis": "CVP mark (USD)"
+    },
+    {
+      "company": "Ember Retail GmbH",
+      "cost_usd": 14184000.00,
+      "fair_value_usd": 13972460.00,
+      "unrealized_gain": -211540.00,
+      "basis": "CVP mark (EUR)"
+    },
+    {
+      "company": "Granite Energy Corp",
+      "cost_usd": 17000000.00,
+      "fair_value_usd": 16900000.00,
+      "unrealized_gain": -100000.00,
+      "basis": "CVP mark (USD)"
+    },
+    {
+      "company": "Harbor Analytics Inc",
+      "cost_usd": 8000000.00,
+      "fair_value_usd": 10840000.00,
+      "unrealized_gain": 2840000.00,
+      "basis": "CVP mark (USD)"
+    },
+    {
+      "company": "Ionmere Materials Ltd",
+      "cost_usd": 14000000.00,
+      "fair_value_usd": 14000000.00,
+      "unrealized_gain": 0.00,
+      "basis": "carried at cost (no Q4 mark yet)"
+    }
+  ],
+  "realized_sales": [
+    {
+      "company": "Fjord Payments AS",
+      "proceeds_usd": 29000000.00,
+      "cost_usd": 20000000.00,
+      "realized_gain": 9000000.00
+    }
+  ],
+  "checks": {
+    "bridge_balances": true,
+    "cash_proof_ok": true,
+    "cash_proof_value": 23896579.25,
+    "q3_liabilities_fully_settled": true
+  },
+  "eurusd_rate": 1.0666
+}

@@ -1,0 +1,12 @@
+{
+  "_comment": "ECB euro foreign exchange reference rates, USD per 1 EUR, published ~16:00 CET each TARGET business day. 31 Dec 2022 was a Saturday and there is no fixing, so the last published rate on or before the valuation date (Fri 30 Dec 2022) applies. The 30 Sep 2022 rate is the one CVP used in the Q3 report (0.9748).",
+  "source": "European Central Bank - Euro foreign exchange reference rates",
+  "source_urls": {
+    "2022-12-30": "https://www.ecb.europa.eu/stats/exchange/eurofxref/shared/pdf/2022/12/20221230.pdf",
+    "2022-09-30": "https://www.ecb.europa.eu/stats/exchange/eurofxref/shared/pdf/2022/09/20220930.pdf"
+  },
+  "rates": {
+    "2022-09-30": "0.9748",
+    "2022-12-30": "1.0666"
+  }
+}
